@@ -3,6 +3,6 @@
     "description": "Cloudstream Non-english Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/techtanic/cloudstream-extensions-multilingual/builds/plugins.json"
+      "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/plugins.json"
     ]
 }
